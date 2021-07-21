@@ -27,7 +27,7 @@ npm install -g truffle
 yarn install
 ```
 
-## Test and Attack!💥
+## Test!💥
 
 ### Run Tests
 
